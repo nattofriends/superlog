@@ -1,0 +1,8 @@
+LOG_BASE_DIR = u"/path/to/znc/.znc"
+INDEX_DIR = u"index"
+SEARCH_CONTEXT_LINES = 8
+JAVA_MAXHEAP = "1G"
+LOG_TIMEZONE = "US/Pacific"
+
+LUCENE_INDEX_DIR = u"index"
+
